@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋, I'm [Dat!](https://github.com/SilverSixx/)
 
-<!--
-**SilverSixx/SilverSixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Appreciate for visiting my profile! &nbsp; 
 
-Here are some ideas to get you started:
+✌️✌️✌️ I am a 3-year SWE student at Hanoi University and Backend dev Member @ GDSC HANU - A program represented by Google Developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about solving software stuffs. I dream of working as a Software Engineer at Big Tech company one day ✌️
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m primarily working with Java, Springboot, Typescript...
+- 📫 &nbsp; Reach me out: phamluongdat231103@gmail.com.
+
+
+### Favorites:
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, Learning & Watching Tech Stuff whenever possible.
+
+### My primary techstack:
+
+[![My Skills](https://skillicons.dev/icons?i=java,ts,spring,git,nestjs,mysql)](https://skillicons.dev)
