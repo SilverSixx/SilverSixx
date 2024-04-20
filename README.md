@@ -2,7 +2,7 @@
 
 ### Appreciate for visiting my profile! &nbsp; 
 
-✌️✌️✌️ I am a 3-year SWE student at Hanoi University and Backend dev Member @ GDSC HANU - A program represented by Google Developers.
+✌️✌️✌️ I am a 3-year SE student at Hanoi University and Backend dev Member @ GDSC HANU - A program represented by Google Developers.
 
 I am passionate about solving software stuffs. I dream of working as a Software Engineer at Big Tech company one day ✌️
 
