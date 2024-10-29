@@ -2,9 +2,9 @@
 
 ### Appreciate for visiting my profile! &nbsp; 
 
-✌️✌️✌️ I am a senior SE student at Hanoi University and Backend dev Member @ GDSC HANU - A program represented by Google Developers.
+✌️✌️✌️ I am a senior SE student at Hanoi University and a devops engineer at MB Ageas Life - A company in MB Group.
 
-I am passionate about solving software stuffs. I dream of working as a Software Engineer at Big Tech company one day ✌️
+I am passionate about solving software stuffs.✌️
 
 ### Talking about Personal Stuff:
 
